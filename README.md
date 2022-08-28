@@ -24,10 +24,12 @@ First, check directory structure
 ├── images
 │   └── model_architecture.jpg
 ├── models
-│   ├── train.py
-│   ├── classify.py
-│   ├── model.py
-│   └── dataset.py
+│   ├── __init__.py
+│   ├── anogan.py
+│   └── recurrent_models_pyramid.py
+├── weights
+│   ├── discriminator.h5
+│   └── generator.h5
 └── spatio_temporal_AnoGAN.ipynb
 ``` 
 
