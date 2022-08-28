@@ -13,13 +13,6 @@
 
 ## Usage  
 First, check directory structure
-    ├── main.py
-    ├── anogan.py 
-    ├── weights
-        ├── discriminator.h5
-        └── generator.h5
-    └── result
-        └── save the generated images when training
 
 ## Prerequisites (my environments)
 - Python 3.7, Tensorflow 2.9, Keras, Numpy, Pandas, Matplotlib, OpenCV
