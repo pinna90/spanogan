@@ -9,7 +9,7 @@
 #### In phase 1, CNN-based AnoGAN examines images appearing in complex planes.
 #### In phase 2, LSTM-based AnoGAN takes irregular trend information in radio signals.
 
-![Model Architecture](./iamges/model_architecture.jpg)
+![Model Architecture](./images/model_architecture.jpg)
 
 
 
