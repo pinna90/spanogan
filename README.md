@@ -5,7 +5,9 @@
 #### In addition, it was implemented based on the code uploaded to github by yjucho1 and mdabachar.
 
 ## Spatio-temporal AnoGAN Architecture
-#### The spatio-temporal AnoGAN learns a radio-modulated signal in a complex plane image and time-series dataset in parallel. In phase 1, CNN-based AnoGAN examines images appearing in complex planes. In phase 2, LSTM-based AnoGAN takes irregular trend information in radio signals.
+#### The spatio-temporal AnoGAN learns a radio-modulated signal in a complex plane image and time-series dataset in parallel. 
+In phase 1, CNN-based AnoGAN examines images appearing in complex planes. 
+In phase 2, LSTM-based AnoGAN takes irregular trend information in radio signals.
 
 ## Prerequisites (my environments)
 - Python 3.7, Tensorflow 2.9, Keras, Numpy, Pandas, Matplotlib, OpenCV
