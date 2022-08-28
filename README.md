@@ -1,8 +1,8 @@
 # Detecting wireless signal noise in mobile radio communications using spatio-temporal AnoGAN
 
 #### This model ensemble a set of CNN-based and LSTM- based AnoGAN in parallel to simultaneously learn the time- series features of the radio modulation signal and the shape expressed in the complex planes.
-#### To design the spatio-temporal AnoGAN, we referred to two papers written by T. Schlegl et al. and M.A. Bashar et al.
-#### In addition, it was implemented based on the code uploaded to github by yjucho1 and mdabachar.
+#### To design the spatio-temporal AnoGAN, we referred to two papers written by [T. Schlegl et al.](https://arxiv.org/abs/1703.05921) and [M.A. Bashar et al.](https://arxiv.org/abs/2008.09567)
+#### In addition, it was implemented based on the code uploaded to github by [yjucho1](https://github.com/yjucho1/anoGAN) and [mdabachar](https://github.com/mdabashar/TAnoGAN).
 
 ## Spatio-temporal AnoGAN Architecture
 #### The spatio-temporal AnoGAN learns a radio-modulated signal in a complex plane image and time-series dataset in parallel. 
