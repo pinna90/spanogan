@@ -19,16 +19,16 @@
 First, check directory structure
 
 ```bash
-├── data
-│   ├── train
-│   ├── test
-│   └── validation
-├── code
+├── dataset
+│   └── sample.npy
+├── images
+│   └── model_architecture.jpg
+├── models
 │   ├── train.py
 │   ├── classify.py
 │   ├── model.py
 │   └── dataset.py
-└── run.sh
+└── spatio_temporal_AnoGAN.ipynb
 ``` 
 
 ## Prerequisites (my environments)
