@@ -34,7 +34,7 @@ First, check directory structure
 └── spatio_temporal_AnoGAN.ipynb
 ``` 
 
-## Prerequisites (my environments)
+## Prerequisites (My environments)
 - Python 3.7, Tensorflow 2.9, Keras, Numpy, Pandas, Matplotlib, OpenCV
 - A recent NVIDIA GPU
 
