@@ -11,6 +11,10 @@
 
 ![Model Architecture](./images/model_architecture.jpg)
 
+## Dataset 
+#### For the experiment, we use the open radio signal dataset, RadioML2016.10a (https://www.deepsig.ai/datasets). 
+#### It is created using the GNU Radio toolkit.
+
 ## Usage  
 First, check directory structure
 
