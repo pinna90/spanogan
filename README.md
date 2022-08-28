@@ -21,8 +21,6 @@ First, check directory structure
 ```bash
 ├── dataset
 │   └── sample.npy
-├── images
-│   └── model_architecture.jpg
 ├── models
 │   ├── __init__.py
 │   ├── anogan.py
