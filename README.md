@@ -11,7 +11,8 @@
 
 ![Model Architecture](./images/model_architecture.jpg)
 
-
+## Usage  
+First, check directory structure
 
 ## Prerequisites (my environments)
 - Python 3.7, Tensorflow 2.9, Keras, Numpy, Pandas, Matplotlib, OpenCV
