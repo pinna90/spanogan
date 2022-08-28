@@ -9,6 +9,10 @@
 #### In phase 1, CNN-based AnoGAN examines images appearing in complex planes.
 #### In phase 2, LSTM-based AnoGAN takes irregular trend information in radio signals.
 
+![Model Architecture](./iamges/model_architecture.jpg)
+
+
+
 ## Prerequisites (my environments)
 - Python 3.7, Tensorflow 2.9, Keras, Numpy, Pandas, Matplotlib, OpenCV
 - A recent NVIDIA GPU
