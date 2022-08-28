@@ -18,6 +18,19 @@
 ## Usage  
 First, check directory structure
 
+```bash
+├── data
+│   ├── train
+│   ├── test
+│   └── validation
+├── code
+│   ├── train.py
+│   ├── classify.py
+│   ├── model.py
+│   └── dataset.py
+└── run.sh
+``` 
+
 ## Prerequisites (my environments)
 - Python 3.7, Tensorflow 2.9, Keras, Numpy, Pandas, Matplotlib, OpenCV
 - A recent NVIDIA GPU
